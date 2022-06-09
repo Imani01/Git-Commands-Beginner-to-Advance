@@ -1,0 +1,6 @@
+log –
+          This command is used to help give context and history for a repository that has been recently types. 
+# If this is not the case we can use. 
+$ git log –before = “date: specify the date “
+Or 
+$ git log –author = “author’s name ”

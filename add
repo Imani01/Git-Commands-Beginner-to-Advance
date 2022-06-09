@@ -1,0 +1,11 @@
+
+add - 
+    Used to track your changes made in Git.
+
+When we modify or delete a file, these changes only happen in our local machine and won't included in the next commit
+(Of Course unless we change the configurtions). 
+
+Using this command you can add a single change"$ git add script.js" this is where a new script.js has been added if multiple are added but not all commas are used to specify those files,
+      or 
+all =>"$ git add ."
+

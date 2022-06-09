@@ -1,0 +1,13 @@
+branch - 
+      this command is used to checkout the current branch. Can be used to create a new branch once the name of the new branch is added at the end.
+      
+$ git branch statebranch.
+
+# You can also delete the created branch using the following command.
+$ git branch -d branchname  or $ git branch -D branchname
+
+NOTE:
+# I discourage the latter this is because any changes that have not been commited will be deleted but with the lowercase d it'll show you the changes made and not commited before deleting.
+
+It allows you and me as developers to work parallel on the same project simultaneously.
+   used for creating, listing and deleting branches.

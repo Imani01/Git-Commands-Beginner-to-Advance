@@ -1,0 +1,4 @@
+commit - 
+        Save your files in Git. A message must e stated as to why the commit is made and in line with what's happening.  eg in above git add
+# Commit.
+$ git commit -m "Added a new script.js file"

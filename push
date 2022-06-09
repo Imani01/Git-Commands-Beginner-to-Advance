@@ -1,0 +1,3 @@
+push - 
+      Upload Git commits to as remote repository like here in Git hub. 
+$ git push origin master.

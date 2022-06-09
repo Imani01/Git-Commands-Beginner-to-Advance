@@ -1,0 +1,10 @@
+merge - 
+     so once development is complete and everything is working just fine. I know you expect me to tell you not to touch the code but guess yes I would tell you that but no.
+
+Anyways the final step before deployment if it's an app or website this command helps you merge the branch you were working on with the parent branch(dev or master).
+
+In order to merge you must be in the master then run the following command to merge the branch to the master.
+# To return to the master branch first run 
+     $ git checkout master
+# Then to go to merge the branch to the master we run
+     $ git merge branchname

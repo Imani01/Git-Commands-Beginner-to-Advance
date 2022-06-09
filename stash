@@ -1,0 +1,10 @@
+stash – 
+     This command is used to save changes when they are not in a state to commit them to a repository in that the work is not done but needs to be saved.
+     
+$ git stash –u          // all the uncommitted changes are stored in the stash leaving the directory clean.
+$  git stash list      // check the list of stash available in the current working directory.
+$ git stash show      //  displays the uncommitted changes. As they would appear on running $ git status.
+
+
+$ git stash apply  //To get the dirty directory  back we type 
+

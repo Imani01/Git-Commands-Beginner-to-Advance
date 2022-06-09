@@ -1,0 +1,7 @@
+config -  
+     This command is used to access the various settings and configurations. Two important settings are user.name and user.email
+Example of configuring user email and name. ]
+
+Note : user configurations can either be applied to the global user or the current branch only.
+$ git config --global user.name "username"
+$ git config --global user.email "username@gmail.com"

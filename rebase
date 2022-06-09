@@ -1,0 +1,6 @@
+rebase –
+      This command takes a set of commits , copies them outside your repository. It is away of combining work from different branches. 
+ Can because it can be used to make linear sequence of commits.
+ 
+The history log of the repository remains clean if rebasing is done.
+ $ git rebase master

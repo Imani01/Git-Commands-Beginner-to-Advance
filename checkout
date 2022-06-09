@@ -1,0 +1,6 @@
+checkout - 
+       This is command is used for switching branches. Mostly used during parallel programming.
+# To move from your current branch to the next we can run the following command.
+$ git checkout statebranch. 
+# The below checkout command is used not only to create a branch but also to switch to that branch.
+$ git checkout –b branchname

@@ -1,0 +1,4 @@
+init -
+    This is used to turn a directory into an empty Git repository. A local repository is required. 
+
+$ git init

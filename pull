@@ -1,0 +1,5 @@
+
+pull -
+      Download the changes from a remote repository to your local machine or rather localhost.
+      
+$ git pull origin master

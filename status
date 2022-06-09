@@ -1,0 +1,3 @@
+status -
+       helps us check and give us the current information about a current branch.
+It shows whether the changes have been committed or not.

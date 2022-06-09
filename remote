@@ -1,0 +1,3 @@
+remote – 
+       This command can be used to connect to a remote repository in GitHub.
+$ git remote add origin <paste copied SSH link obtained from Git hub>

@@ -1,0 +1,4 @@
+clone - 
+      This is a command for downloading existing source code from a remote repository eg Github.
+# For example to clone this git repository
+$ git clone https://github.com/Imani01/Git-Commands-Beginner-to-Advance.git

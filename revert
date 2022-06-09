@@ -1,0 +1,10 @@
+revert – 
+            This command helps you rollback to the previous versions of the file. 
+#first check the last action performed
+
+$ git log –oneline   // gives the id of the action assigned which we now use to revert.
+$ git revert <paste the action id>   // comes before the name of the action performed.
+#after performing the two operations you can go back to what you had edited before rollback.
+$ git revert HEAD  // because the last action is the revert operation so +- = 0 displacement.
+
+# This is a command we can use to undo the changes we've made.  CAUTION: when using this command to avoid fatal and unwanted deletions whatsoever.
